@@ -379,5 +379,5 @@ Clear browser localStorage and restart both frontend and backend.
 ## Support
 
 For any issues or questions, please contact:
-- Email: support@chefalert.com
-- WhatsApp: +91 XXXXX XXXXX
+- Email: moonorahu@gmail.com
+- WhatsApp: +92 302 0130579
